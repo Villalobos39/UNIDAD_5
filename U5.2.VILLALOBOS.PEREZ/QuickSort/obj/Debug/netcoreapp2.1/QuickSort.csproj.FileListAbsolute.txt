@@ -1,0 +1,11 @@
+D:\UNIDAD_5\QUICKSORT\U5.1.VILLALOBOS.PEREZ\QuickSort\bin\Debug\netcoreapp2.1\QuickSort.deps.json
+D:\UNIDAD_5\QUICKSORT\U5.1.VILLALOBOS.PEREZ\QuickSort\bin\Debug\netcoreapp2.1\QuickSort.runtimeconfig.json
+D:\UNIDAD_5\QUICKSORT\U5.1.VILLALOBOS.PEREZ\QuickSort\bin\Debug\netcoreapp2.1\QuickSort.runtimeconfig.dev.json
+D:\UNIDAD_5\QUICKSORT\U5.1.VILLALOBOS.PEREZ\QuickSort\bin\Debug\netcoreapp2.1\QuickSort.dll
+D:\UNIDAD_5\QUICKSORT\U5.1.VILLALOBOS.PEREZ\QuickSort\bin\Debug\netcoreapp2.1\QuickSort.pdb
+D:\UNIDAD_5\QUICKSORT\U5.1.VILLALOBOS.PEREZ\QuickSort\obj\Debug\netcoreapp2.1\QuickSort.csprojAssemblyReference.cache
+D:\UNIDAD_5\QUICKSORT\U5.1.VILLALOBOS.PEREZ\QuickSort\obj\Debug\netcoreapp2.1\QuickSort.csproj.CoreCompileInputs.cache
+D:\UNIDAD_5\QUICKSORT\U5.1.VILLALOBOS.PEREZ\QuickSort\obj\Debug\netcoreapp2.1\QuickSort.AssemblyInfoInputs.cache
+D:\UNIDAD_5\QUICKSORT\U5.1.VILLALOBOS.PEREZ\QuickSort\obj\Debug\netcoreapp2.1\QuickSort.AssemblyInfo.cs
+D:\UNIDAD_5\QUICKSORT\U5.1.VILLALOBOS.PEREZ\QuickSort\obj\Debug\netcoreapp2.1\QuickSort.dll
+D:\UNIDAD_5\QUICKSORT\U5.1.VILLALOBOS.PEREZ\QuickSort\obj\Debug\netcoreapp2.1\QuickSort.pdb
